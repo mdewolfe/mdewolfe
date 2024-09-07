@@ -10,9 +10,9 @@ Privacy. Looking into Passkey integration, and how to keep people's data private
 
 ### My Motto
 
-> Keep everything as simple as possible, but no simpler."
+> Everything should be made as simple as possible, but not simpler.
 >
-> -- Albert Einstein (I think)
+> -- Albert Einstein ([I think](https://skeptics.stackexchange.com/a/34603))
 
 ### Fun Fact
 
