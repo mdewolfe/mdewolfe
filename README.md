@@ -1,4 +1,28 @@
-## Hi there 👋
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+
+## Hi
+
+Currently I am working on a mobile application backed backed by Firebase. Six Months ago I was working in the ecommerce space.
+
+### This Week's Interest
+
+Privacy. Looking into Passkey integration, and how to keep people's data private, or even question if it really needed at all.
+
+### My Motto
+
+> Keep everything as simple as possible, but no simpler."
+>
+> -- Albert Einstein (I think)
+
+### Fun Fact
+
+Snow can be found in a variety of colors, not just white! In certain conditions, you can find pink snow, commonly called "watermelon snow." This phenomenon occurs due to the presence of a type of algae, Chlamydomonas nivalis, that thrives in cold environments. The algae contain a pigment that gives the snow a reddish or pink hue, and it even has a faint scent of watermelon!
+
+### Pet Peeves
+
+- Impatient drivers
+- Apricots
+- React-Native
 
 <!--
 **mdewolfe/mdewolfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
