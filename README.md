@@ -6,7 +6,7 @@ Currently I am working on a mobile application backed backed by Firebase. Six Mo
 
 ### This Week's Interest
 
-Privacy. Looking into Passkey integration, and how to keep people's data private, or even question if it really needed at all.
+Privacy. Looking into Passkey integration, and how to keep people's data private, or even question if it really is needed at all.
 
 ### My Motto
 
