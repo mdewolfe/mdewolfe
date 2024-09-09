@@ -1,5 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
-
 ## Hi
 
 Currently I am working on a mobile application backed backed by Firebase. Four months ago I was working in the ecommerce space.
@@ -13,6 +11,10 @@ Privacy. Looking into Passkey integration, and how to keep people's data private
 > Everything should be made as simple as possible, but not simpler.
 >
 > -- Albert Einstein ([I think](https://skeptics.stackexchange.com/a/34603))
+
+### Untilities That are Only Usefule to Me
+
+- https://github.com/mdewolfe/digpy
 
 ### Fun Fact
 
