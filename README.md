@@ -1,6 +1,6 @@
 ## Hi
 
-Currently I am working on a mobile application backed backed by Firebase. Four months ago I was working in the ecommerce space. I have worked on a broad array of projects in the last 13 years.
+Currently I am working on a mobile application backed backed by Firebase.
 
 ### This Week's Interest
 
