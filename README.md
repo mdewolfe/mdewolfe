@@ -1,4 +1,4 @@
-## Hi, Hola, Bonjour, Ciao, 
+## In pursuit of Well Behaved Code
 
 Currently I am working on a mobile application backed backed by Firebase.
 
