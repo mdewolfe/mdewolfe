@@ -12,7 +12,7 @@ Privacy. Looking into Passkey integration, and how to keep people's data private
 >
 > -- Albert Einstein ([I think](https://skeptics.stackexchange.com/a/34603))
 
-### Untilities That are Only Useful to Me
+### Utilities That are Only Useful to Me
 
 - https://github.com/mdewolfe/digpy
 
