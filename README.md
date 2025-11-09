@@ -8,10 +8,13 @@ Privacy. Looking into Passkey integration, and how to keep people's data private
 
 ### Things I Read Somewhere
 
+>```txt
 > Everything should be made as simple as possible, but not simpler.
 >
+>```
 > -- Albert Einstein ([I think](https://skeptics.stackexchange.com/a/34603))
 
+---
 
 >```txt
 >Beautiful is better than ugly.
